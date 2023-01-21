@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.head{
+    display: flex;
+    margin-left: 50vh;
+    padding: 15px;
+}
+
+
+.box1{
+    /* border: 1.5px solid black; */
+    border-radius:inherit;
+    align-items: center;
+    align-content: center;
+    padding-right: 2px;
+    width: 128vh;
+    position: initial;
+    display: block;
+}
+.absolute {
+    position: absolute;
+    top: 181px;
+    /* bottom: 74px; */
+    right: 42px;
+    width: 76vh;
+    height: 446px;
+    border: 1px solid #000000;
+  }
+
+

@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    /* border: 1.5px solid black; */
+    border-radius:inherit;
+    align-items: center;
+    align-content: center;
+    padding-right: 2px;
+    width: 128vh;
+    position: initial;
+    display: block;
+}
+.absolute {
+    position: absolute;
+    top: 94px;
+    /* bottom: 74px; */
+    right: 42px;
+    left: 146vh;
+    width: 36vh;
+    height: 196px;
+    /* border: 1px solid #000000; */
+}
+.absolute img{
+    vertical-align: middle;
+    border-style: none;
+    height: 34vh;
+    width: 47vh;
+
+}
+ 
+.absolute1{
+   
+    position: absolute;
+    top: 112vh;
+    /* bottom: 74px; */
+    right: 42px;
+    left: 138vh;
+    width: 60vh;
+    height: 59vh;
+  
+}
+.absolute1 img{
+    width: 68vh;
+    height: 58vh;
+}
+.absolute1_1{
+   
+    position: absolute;
+    top: 352px;
+    /* bottom: 74px; */
+    right: 42px;
+    left: 138vh;
+    width: 69vh;
+    height: 59vh;
+  
+}
+.absolute1_1 img{
+    width: 71vh;
+    height: 58vh;
+}
+
+
+.absolute2{
+   
+    position: absolute;
+    top: 189vh;
+    /* bottom: 74px; */
+    right: 42px;
+    left: 138vh;
+    width: 71vh;
+    height: 59vh;
+}
+
+
+.absolute2 img{
+    vertical-align: middle;
+    border-style: none;
+    height: 53vh;
+}
+
+
+.absolute3{
+    position: absolute;
+    top: 279vh;
+    /* bottom: 74px; */
+    right: 42px;
+    left: 129vh;
+    width: 70vh;
+    height: 59vh;
+}
+
+
+.absolute3 img{
+    vertical-align: middle;
+    border-style: none;
+    height: 58vh;
+    width: 80vh;
+}

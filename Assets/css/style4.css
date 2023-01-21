@@ -1,0 +1,24 @@
+
+.head h1{
+    padding-left: 56vh;
+    font-size: 3rem;
+}
+
+
+
+.box1{
+    border-radius: inherit;
+    align-items: center;
+    align-content: center;
+    padding-right: 2px;
+    width: 157vh;
+    position: initial;
+    display: block;
+    padding-left: 50vh;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 112vh;
+}
